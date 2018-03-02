@@ -1,8 +1,8 @@
 tmp
-dist
 
 # awesome-typescript-loader
 .awcache
+.env
 
 # npm
 node_modules
